@@ -1,5 +1,5 @@
 ## IMAGE
-* Painting series; populations of images; database arts; database-of-images;
+* Painting series; evolutionary art; populations of images; database arts; database-of-images;
 * [...]
 
 - - - - - - - - -
