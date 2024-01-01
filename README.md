@@ -4,17 +4,17 @@ Interdisciplinary Art Research Experiments
 * Glitch aesthetics: Error and Noise in the Art Labs;
 * *Process Art* meets *Expressive Systems*;
 
-## IMAGE
+## [IMAGE](https://github.com/antiface/InterdisciplinaryArtResearch/tree/main/IMAGE)
 * *Process-Painting*: Art of the Procedure;
 * *Noise Fields and Their Modulation(s)*;
 * ...
 
-## SOUND
+## [SOUND](https://github.com/antiface/InterdisciplinaryArtResearch/tree/main/SOUND)
 * Ambient, experimental sound design;
 * Noise Music: The Art of Noise;
 * ...
 
-## TEXT
+## [TEXT](https://github.com/antiface/InterdisciplinaryArtResearch/tree/main/TEXT)
 * The *Cut-Up Technique* of procedural generation;
 * ...
 
