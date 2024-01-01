@@ -1,4 +1,5 @@
 ## TEXT
+* Documentation; research; poetry and song lyrics; novelistic phenomenology;
 * [...]
 
 - - - - - - - - -
