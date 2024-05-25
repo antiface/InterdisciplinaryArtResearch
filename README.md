@@ -18,7 +18,7 @@ Interdisciplinary Art Research Experiments
 * The *Cut-Up Technique* of procedural generation;
 * ...
 
-- - - - - - -
+## RESEARCH
 
 02:50 2024-05-25
 
