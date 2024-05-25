@@ -18,7 +18,7 @@ Interdisciplinary Art Research Experiments
 * The *Cut-Up Technique* of procedural generation;
 * ...
 
-## RESEARCH
+## [RESEARCH](https://github.com/antiface/InterdisciplinaryArtResearch/tree/main/RESEARCH)
 
 02:50 2024-05-25
 
